@@ -1,0 +1,30 @@
+{
+  "format": 1,
+  "db_version": "1453c9b070dd",
+  "생성일": "2026-10-06T14:50:26+09:00",
+  "embed_model": "gemini-embedding-2",
+  "embed_dim": 768,
+  "dtype": "float32",
+  "byte_order": "little",
+  "normalized": true,
+  "count": 745,
+  "laws": [
+    {
+      "law_id": "007363",
+      "법령명": "산업안전보건기준에 관한 규칙",
+      "공포번호": "00450",
+      "시행일자": "20250901",
+      "건수": 745
+    }
+  ],
+  "files": {
+    "chunks.json": {
+      "sha256": "af4645082adc59bdef710a38cfaeaf6356b4a1824c4acb8a3ec3bac5d5f0f2f1",
+      "bytes": 956539
+    },
+    "vectors.bin": {
+      "sha256": "43668b0285a582a623039bd0a44f7e03c531a4b679f6437ed3758cfb9b1db8fb",
+      "bytes": 2288640
+    }
+  }
+}
