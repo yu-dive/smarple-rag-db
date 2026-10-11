@@ -1,13 +1,13 @@
 {
   "format": 2,
-  "db_version": "83409dd1b2d6",
-  "생성일": "2026-10-10T19:23:03+09:00",
+  "db_version": "4a46c52b1171",
+  "생성일": "2026-10-11T13:59:30+09:00",
   "embed_model": "gemini-embedding-2",
   "embed_dim": 768,
   "dtype": "int8",
   "byte_order": "little",
   "normalized": true,
-  "count": 5859,
+  "count": 6363,
   "laws": [
     {
       "law_id": "000162",
@@ -1166,6 +1166,14 @@
       ]
     },
     {
+      "law_id": "Gkosha",
+      "법령명": "KOSHA GUIDE",
+      "공포번호": "5ea00287768d",
+      "시행일자": "",
+      "종류": "지침",
+      "건수": 504
+    },
+    {
       "law_id": "Imoel",
       "법령명": "고용노동부 법령해석",
       "공포번호": "2c6dfeb918df",
@@ -1176,12 +1184,12 @@
   ],
   "files": {
     "chunks.json": {
-      "sha256": "43bd9fcbea4cfdce6883e27379c04838e4238b326f401155929bc66291a8bdc3",
-      "bytes": 12065928
+      "sha256": "a8cb5c551c320502835244a2a64d25a6b63ece01b16519c678f18ca39472719b",
+      "bytes": 12780648
     },
     "vectors.bin": {
-      "sha256": "fa8aca030610f6d534fdd3843233397fa20cdd39681a82183df72fa448362a9d",
-      "bytes": 4523148
+      "sha256": "54148d9f055286302e8af25a0cfa516770e47688b394533a1716a451747127dd",
+      "bytes": 4912236
     }
   }
 }
