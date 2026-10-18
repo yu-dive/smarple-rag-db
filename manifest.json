@@ -1,7 +1,7 @@
 {
   "format": 2,
-  "db_version": "880e03da4563",
-  "생성일": "2026-10-18T10:11:11+09:00",
+  "db_version": "2510d0d66927",
+  "생성일": "2026-10-18T11:42:04+09:00",
   "embed_model": "gemini-embedding-2",
   "embed_dim": 768,
   "dtype": "int8",
@@ -1184,8 +1184,8 @@
   ],
   "files": {
     "chunks.json": {
-      "sha256": "a432a08245b4a33db212456482445ba567af69827969f8dbc0de9190cc8e102e",
-      "bytes": 13297987
+      "sha256": "8c376a66bc7fb2b8ca18ea601995ed411759b269b1bd0a10430f7a5ab67711db",
+      "bytes": 13428430
     },
     "vectors.bin": {
       "sha256": "920cc4b1d910efae1a938709d228e562bbb39c099f16b4bd30eb090b8fe72739",
