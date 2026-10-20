@@ -1,7 +1,7 @@
 {
   "format": 2,
-  "db_version": "567bc6058a80",
-  "생성일": "2026-10-18T14:58:38+09:00",
+  "db_version": "5e076b152828",
+  "생성일": "2026-10-20T16:12:40+09:00",
   "embed_model": "gemini-embedding-2",
   "embed_dim": 768,
   "dtype": "int8",
@@ -1188,7 +1188,7 @@
       "bytes": 13449218
     },
     "vectors.bin": {
-      "sha256": "daf0b9aa09a532b81a2f465226ed667bc3c9af032f722ca7981daf55b5efe184",
+      "sha256": "67ca926f54d35d592de3cd76f00b5638db1d4facd7bd59c7186163a9921da16b",
       "bytes": 5183980
     }
   }
