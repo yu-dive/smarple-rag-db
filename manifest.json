@@ -1,7 +1,7 @@
 {
   "format": 2,
-  "db_version": "4ae41e9a3fb2",
-  "생성일": "2026-11-04T13:44:00+09:00",
+  "db_version": "812b48496da5",
+  "생성일": "2026-11-04T18:07:51+09:00",
   "embed_model": "gemini-embedding-2",
   "embed_dim": 768,
   "dtype": "int8",
@@ -1168,7 +1168,7 @@
     {
       "law_id": "Gkosha",
       "법령명": "KOSHA GUIDE",
-      "공포번호": "1dd401206fe1",
+      "공포번호": "62e814b00180",
       "시행일자": "",
       "종류": "지침",
       "건수": 856
@@ -1184,11 +1184,11 @@
   ],
   "files": {
     "chunks.json": {
-      "sha256": "05a914485edd3844bba4a3e34364cbb3ff5941c45739d0702056dcdc12640b7b",
-      "bytes": 13449258
+      "sha256": "555e5acbe3dd1822b0e53ea6a54ce5c0af66614619f712ada1914ca59d258ad0",
+      "bytes": 13455772
     },
     "vectors.bin": {
-      "sha256": "510d298b9fdc2dc76f1df817025b2c7bf32e57dba09314e18a49a84a1cd91057",
+      "sha256": "e9afe4739b51b481ddbbba8bf5a9af69821447baac04a86cfbd174f2ad30284b",
       "bytes": 5183980
     }
   }
